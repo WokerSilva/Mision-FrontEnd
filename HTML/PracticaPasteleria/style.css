@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    font-family: sans-serif;
+    background: #f1f1f1;
+  }
+  
+  nav {
+    background: #222222;
+    padding: 15px 15px;  
+    
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /*
+    Interacción
+      Color del texto
+      Subrayado
+  */
+  a:hover {
+    color: #00C9FF;
+    text-decoration: underline;
+  }
+  
+  .menu {
+    display: flex;  
+    justify-content: space-around;  
+  }
+  
+  
+  .item {  
+    display: flex;
+    line-height: 3.5;
+  }
+  
+  .content-logo{
+    width: 70px;
+    height: 70px; 
+  }
+  
+  .content-cover{
+    padding: 1em 0;
+    float: left;
+    width: 99%;   
+  }
+  
+  .titulo{
+    text-align: center;
+  }
+  
+  .titulo2{
+    text-align: center;
+  }
+  
+  
+  .p_inicio{
+    text-align: center;
+  }
+  
+  /*
+  PASTELES PASTELES PASTELES PASTELES PASTELES PASTELES
+  PASTELES PASTELES PASTELES PASTELES PASTELES PASTELES
+  PASTELES PASTELES PASTELES PASTELES PASTELES PASTELES
+  */
+  
+  
